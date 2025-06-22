@@ -7,7 +7,7 @@ do
     echo "Enter first number:"
     read n1
     echo "Enter second number:"
-    read n6
+    read n2
 
     echo "Choose operation:"
     echo "1. Addition"
